@@ -21,9 +21,9 @@ Full-stack developer who loves building **web, desktop, and mobile applications*
 
 **What I'm passionate about:**
 
-- 🎯 Writing code that's easy to read and maintain  
-- 📱 Cross-platform development  
-- 🤝 Open-source contributions  
+- 🎯 Writing code that's easy to read and maintain
+- 📱 Cross-platform development
+- 🤝 Open-source contributions
 - 🔧 Modern web technologies and best practices
 
 ---
@@ -44,11 +44,13 @@ Full-stack developer who loves building **web, desktop, and mobile applications*
 ### Backend & Databases
 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Fastify](https://img.shields.io/badge/Fastify-20232A?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 ### Tools & Technologies
 
@@ -73,9 +75,9 @@ Full-stack developer who loves building **web, desktop, and mobile applications*
 
 ## 🌟 What I'm Up To
 
-- 📚 **Continuously learning:** Exploring modern technologies, frameworks, and methodologies  
-- 🤖 **Curious about:** AI integration, automation, and smart development workflows  
-- 🧠 **Focused on:** Improving architecture and maintainability in full-stack apps  
+- 📚 **Continuously learning:** Exploring modern technologies, frameworks, and methodologies
+- 🤖 **Curious about:** AI integration, automation, and smart development workflows
+- 🧠 **Focused on:** Improving architecture and maintainability in full-stack apps
 - 💡 **Driven by:** Curiosity, clean code, and building meaningful solutions
 
 ---
