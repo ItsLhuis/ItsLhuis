@@ -89,6 +89,4 @@ Full-stack developer who loves building **web, desktop, and mobile applications*
   [![Email](https://img.shields.io/badge/Email-itslhuis.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itslhuis.dev@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsLhuis)
     
-  *"Code is poetry written in logic 🎯"*
-    
 </div>
