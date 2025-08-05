@@ -1,9 +1,9 @@
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Luis!+👋;Full-Stack+Developer+from+Portugal+🇵🇹;React+%7C+Node.js+%7C+TypeScript;Building+cross-platform+apps+📱;Web+%7C+Desktop+%7C+Mobile+Solutions;Clean+code+enthusiast+✨;Open+source+contributor+🌟;Always+learning+new+things!+📚)](https://git.io/typing-svg)
-    
-  [![GitHub](https://img.shields.io/badge/GitHub-ItsLhuis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsLhuis)
-  [![Email](https://img.shields.io/badge/Email-itslhuis.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itslhuis.dev@gmail.com)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Luis+👋;Full-Stack+Developer+from+Portugal+🇵🇹;Building+modern,+efficient+applications;Passionate+about+clean+and+maintainable+code;Creating+cross-platform+solutions+📱;Open+source+enthusiast+🌟;Always+learning+and+evolving+📚)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ItsLhuis-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsLhuis)
+[![Email](https://img.shields.io/badge/Email-itslhuis.dev%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itslhuis.dev@gmail.com)
 
 </div>
 
@@ -33,6 +33,7 @@ Full-stack developer who loves building **web, desktop, and mobile applications*
 ### Frontend
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -86,7 +87,6 @@ Full-stack developer who loves building **web, desktop, and mobile applications*
   
   ### 💬 Let's Build Something Together!
   
-  [![Email](https://img.shields.io/badge/Email-itslhuis.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itslhuis.dev@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsLhuis)
+  [![Email](https://img.shields.io/badge/Email-itslhuis.dev%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itslhuis.dev@gmail.com)
     
 </div>
