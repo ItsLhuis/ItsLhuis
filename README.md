@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Luis+👋;Full-Stack+Developer+from+Portugal+🇵🇹;Building+modern,+efficient+applications;Passionate+about+clean+and+maintainable+code;Creating+cross-platform+solutions+📱;Open+source+enthusiast+🌟;Always+learning+and+evolving+📚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Luis+👋;Full-Stack+Developer+from+Portugal;Building+modern,+efficient+applications;Passionate+about+clean+and+maintainable+code;Creating+cross-platform+solutions+📱;Open+source+enthusiast+🌟;Always+learning+and+evolving+📚)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ItsLhuis-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsLhuis)
 [![Email](https://img.shields.io/badge/Email-itslhuis.dev%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itslhuis.dev@gmail.com)
