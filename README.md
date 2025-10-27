@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Luis+👋;Full-Stack+Developer+from+Portugal;Building+modern,+efficient+applications;Passionate+about+clean+and+maintainable+code;Creating+cross-platform+solutions+📱;Open+source+enthusiast+🌟;Always+learning+and+evolving+📚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Luis+👋;Full-Stack+Developer+from+Portugal;Building+web,+desktop+and+mobile+apps;Focused+on+clean,+maintainable+code)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ItsLhuis-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsLhuis)
 [![Email](https://img.shields.io/badge/Email-itslhuis.dev%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itslhuis.dev@gmail.com)
@@ -17,14 +17,14 @@
 
 ## 🚀 About Me
 
-Full-stack developer who loves building **web, desktop, and mobile applications**. I'm all about creating **intuitive interfaces** and **robust APIs** with a focus on clean, modular code that actually makes sense.
+I build **web, desktop, and mobile applications** using React, Node.js, and TypeScript. I design interfaces and APIs with a focus on modularity and maintainability.
 
-**What I'm passionate about:**
+**What I Focus On:**
 
-- 🎯 Writing code that's easy to read and maintain
-- 📱 Cross-platform development
-- 🤝 Open-source contributions
-- 🔧 Modern web technologies and best practices
+- 🎯 Writing readable, maintainable code
+- 📱 Cross-platform development with React Native and Tauri
+- 🤝 Contributing to open-source projects
+- 🔧 Implementing best practices in full-stack architecture
 
 ---
 
@@ -76,10 +76,10 @@ Full-stack developer who loves building **web, desktop, and mobile applications*
 
 ## 🌟 What I'm Up To
 
-- 📚 **Continuously learning:** Exploring modern technologies, frameworks, and methodologies
-- 🤖 **Curious about:** AI integration, automation, and smart development workflows
-- 🧠 **Focused on:** Improving architecture and maintainability in full-stack apps
-- 💡 **Driven by:** Curiosity, clean code, and building meaningful solutions
+- 📚 **Exploring:** Modern frameworks and development patterns
+- 🤖 **Working with:** AI tools and automation workflows
+- 🧠 **Improving:** Code architecture and scalability practices
+- 💡 **Building:** Cross-platform solutions and efficient APIs
 
 ---
 
