@@ -62,18 +62,6 @@ I build **web, desktop, and mobile applications** using React, Node.js, and Type
 
 ---
 
-## 🔥 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsLhuis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLhuis&layout=compact&theme=tokyonight&hide_border=true)
-  
-</div>
-
----
-
 ## 🌟 What I'm Up To
 
 - 📚 **Exploring:** Modern frameworks and development patterns
