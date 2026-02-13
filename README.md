@@ -1,10 +1,8 @@
 <div align="center">
 
-![Hero Banner](banner.jpeg)
+![Hero Banner](herobanner.jpeg)
 
 </div>
-
----
 
 ## About Me
 
@@ -45,15 +43,6 @@ I spend most of my time connecting things that weren't meant to talk to each oth
 [![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app)
 [![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)](https://www.electronjs.org)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
-
----
-
-## What I'm Into Right Now
-
-- Squeezing 60fps out of React Native on mid-range devices
-- Cross-platform audio — it's messier than it looks
-- Offline-first apps that actually work offline
-- Making monorepos not feel like a punishment
 
 ---
 
