@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="herobanner.jpeg" alt="Hero Banner" />
+  <img src="banner.png" alt="Hero Banner" />
 </div>
 
 ## About Me
 
-I build web, desktop, and mobile apps — usually at the same time. React and TypeScript are my daily drivers; Node.js handles the backend side. Most of my projects end up as monorepos because I like things to talk to each other.
+Full-stack developer focused on building production-ready web, desktop, and mobile applications with React, Node.js, and TypeScript.
 
-I spend most of my time connecting things that weren't meant to talk to each other — and making it look easy.
+I've shipped systems that replaced legacy platforms and run daily in real teams. Most of my work lives in monorepos — I like sharing logic across platforms and keeping things consistent from database to UI.
+
+Currently based in Portugal, open to full-stack opportunities.
 
 ---
 
@@ -15,8 +17,8 @@ I spend most of my time connecting things that weren't meant to talk to each oth
 ### Frontend
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
