@@ -10,8 +10,6 @@ I replaced a 10+ year legacy PHP platform in 6 months as an intern — sole deve
 
 Most of my work lives in monorepos. I like sharing typed business logic across platforms and keeping everything consistent from the database layer to the UI.
 
-Currently open to full-stack opportunities in the Porto/Aveiro region or remote within Portugal.
-
 ---
 
 ## Tech Stack
